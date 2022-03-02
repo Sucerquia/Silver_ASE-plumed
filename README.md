@@ -1,9 +1,9 @@
 # Ab initio metadynamics determination of temperature-dependent free-energy landscape in ultrasmall silver clusters
 #### Daniel Sucerquia, Cristian Parra, Pilar Cossio, Olga Lopez, https://arxiv.org/abs/2201.08761
 This repository contains all the codes needed to
-reproduce ab-initio Well Tempered Metadynamics 
-simulations with ASE and GPAW of the paper. This 
-repository contains:
+reproduce the results of ab-initio Well Tempered 
+Metadynamics simulations presented in the paper.
+This repository contains:
 
 1) LJ-cluster: Codes to reproduce the LJ-cluster benchmark
 2) Ag5: Codes to reproduce the Ag5 WT-MTD simulations at different temperatures
