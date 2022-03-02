@@ -48,4 +48,4 @@ atoms.calc = Plumed(GPAW(h=0.2,
 dyn = NVTBerendsen(atoms, timestep, temperature_K=T, taut=taut, fixcm=False,
                    trajectory='trajectory.traj')
 
-dyn.run(50001)
+dyn.run(136001)
